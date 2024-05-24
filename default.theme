@@ -67,7 +67,7 @@ ColorActiveWorkspaceButtonText = "rgb:0F/0F/0F"
 ColorActiveWorkspaceButton = "rgb:b6/4d/4d"
 
 #Dialog box
-ColorDialog="rgb:b6/4d/4d"
+ColorDialog="rgb:0F/0F/0F"
 
 
 
