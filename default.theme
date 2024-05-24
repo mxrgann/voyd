@@ -43,7 +43,7 @@ ColorMoveSizeStatus="rgb:b6/4d/4d"
 ColorMoveSizeStatusText="rgb:FF/FF/FF"
 
 ColorInputSelection="rgb:b6/4d/4d"
-
+ColorNormalButtonText="rgb:b6/4d/4d"
 
 
 #taskbar parameters
